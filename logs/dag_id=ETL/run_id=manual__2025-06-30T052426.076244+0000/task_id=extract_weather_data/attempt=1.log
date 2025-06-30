@@ -1,0 +1,9 @@
+{"timestamp":"2025-06-30T05:24:26.669660","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-06-30T05:24:26.670542","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ETL_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-30T05:24:27.408146Z","level":"info","event":"Coordinates 10.875°N 106.625°E","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-30T05:24:27.408637Z","level":"info","event":"Elevation 6.0 m asl","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-30T05:24:27.408900Z","level":"info","event":"Timezone b'Asia/Bangkok'b'GMT+7'","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-30T05:24:27.409479Z","level":"info","event":"Timezone difference to GMT+0 25200 s","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-30T05:24:27.410778Z","level":"info","event":"Creating dataframe at dataset/weather_data.csv...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-30T05:24:27.418101Z","level":"info","event":"Done...!","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-30T05:24:27.419373","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}
