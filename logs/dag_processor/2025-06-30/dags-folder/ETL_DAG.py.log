@@ -100,3 +100,4 @@
 {"timestamp":"2025-06-30T05:54:54.288468","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ETL_DAG.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-30T05:55:25.304708","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ETL_DAG.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-06-30T05:55:56.414403","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ETL_DAG.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-30T05:56:27.323346","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ETL_DAG.py","logger":"airflow.models.dagbag.DagBag"}
